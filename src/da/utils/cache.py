@@ -1,4 +1,4 @@
-import cPickle
+import cPickle as Pickle
 import functools
 
 
