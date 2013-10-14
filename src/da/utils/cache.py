@@ -1,4 +1,4 @@
-from cPickle import cPickle as Pickle
+import cPickle
 
 
 def memoize(obj):
