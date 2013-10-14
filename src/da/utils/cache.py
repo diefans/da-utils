@@ -1,4 +1,5 @@
 import cPickle
+import functools
 
 
 def memoize(obj):
